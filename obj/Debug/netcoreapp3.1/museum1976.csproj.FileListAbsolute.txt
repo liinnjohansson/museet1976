@@ -1,0 +1,13 @@
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\bin\Debug\netcoreapp3.1\museum1976.exe
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\bin\Debug\netcoreapp3.1\museum1976.deps.json
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\bin\Debug\netcoreapp3.1\museum1976.runtimeconfig.json
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\bin\Debug\netcoreapp3.1\museum1976.runtimeconfig.dev.json
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\bin\Debug\netcoreapp3.1\museum1976.dll
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\bin\Debug\netcoreapp3.1\museum1976.pdb
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\obj\Debug\netcoreapp3.1\museum1976.csprojAssemblyReference.cache
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\obj\Debug\netcoreapp3.1\museum1976.AssemblyInfoInputs.cache
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\obj\Debug\netcoreapp3.1\museum1976.AssemblyInfo.cs
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\obj\Debug\netcoreapp3.1\museum1976.csproj.CoreCompileInputs.cache
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\obj\Debug\netcoreapp3.1\museum1976.dll
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\obj\Debug\netcoreapp3.1\museum1976.pdb
+C:\Users\flisa\OneDrive\Documents\OOP1\museum1976\obj\Debug\netcoreapp3.1\museum1976.genruntimeconfig.cache
